@@ -1,0 +1,1 @@
+<a class="btn btn-primary btn-sm" href="<?= site_url("cases/${id}")?>" role="button">Просмотр</a>

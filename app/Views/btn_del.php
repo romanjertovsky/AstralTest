@@ -1,0 +1,1 @@
+<button type="submit" class="btn btn-danger btn-sm post_confirm" name="case_id" value="<?=$id?>">Удалить</button>

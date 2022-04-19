@@ -1,0 +1,1 @@
+<a class="btn btn-success btn-sm" href="<?= site_url("cases/close/${id}")?>" role="button">Закрыть</a>

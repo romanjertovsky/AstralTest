@@ -1,0 +1,12 @@
+.test{
+    border: 1px solid #bbff00;
+}
+
+.header-top {
+    background: #333342;
+}
+
+body, table, td, th, .page-link {
+    color: #87939a;
+    background-color: #2b2b2c;
+}
